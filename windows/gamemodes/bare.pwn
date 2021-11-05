@@ -1,6 +1,7 @@
 #include <a_samp>
 #include <core>
 #include <float>
+#include <streamer>
 
 #pragma tabsize 0
 
