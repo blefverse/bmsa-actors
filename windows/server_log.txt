@@ -1,0 +1,72 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:07:17] 
+[17:07:17] Server Plugins
+[17:07:17] --------------
+[17:07:17]  Loading plugin: sscanf
+[17:07:17] 
+
+[17:07:17]  ===============================
+
+[17:07:17]       sscanf plugin loaded.     
+
+[17:07:17]          Version:  2.8.3        
+
+[17:07:17]   (c) 2018 Alex "Y_Less" Cole  
+
+[17:07:17]  ===============================
+
+[17:07:17]   Loaded.
+[17:07:17]  Loading plugin: streamer
+[17:07:17] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[17:07:17]   Loaded.
+[17:07:17]  Loaded 2 plugins.
+
+[17:07:17] 
+[17:07:17] Filterscripts
+[17:07:17] ---------------
+[17:07:17]   Loading filterscript 'actorgalore.amx'...
+[17:07:17]  
+[17:07:17]  
+[17:07:17]  
+[17:07:17]  ======================================= 
+[17:07:17]  |                                     | 
+[17:07:17]  |        YSI version 3.09.0684        | 
+[17:07:17]  |        By Alex "Y_Less" Cole        | 
+[17:07:17]  |                                     | 
+[17:07:17]  ======================================= 
+[17:07:17]  
+[17:07:17]  
+[17:07:17]  
+[17:07:17] [A] - 43 animations successfully loaded!
+[17:07:17] [A] - 0 actors successfully loaded!
+[17:07:17] 
+--------------------------------------
+[17:07:17]  Actor Galore editor by UnuAlex
+[17:07:17] --------------------------------------
+
+[17:07:17]   Loaded 1 filterscripts.
+
+[17:07:17] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[17:07:17] 
+----------------------------------
+[17:07:17]   Bare Script
+
+[17:07:17] ----------------------------------
+
+[17:07:17] Number of vehicle models: 0
+[17:08:39] [connection] incoming connection: 127.0.0.1:59557 id: 0
+[17:08:39] [join] Trevor_Fair has joined the server (0:127.0.0.1)
+[17:09:02] RCON (In-Game): Player #0 (Trevor_Fair) has logged in.
+[17:09:26] Actor 1 got saved
+[17:10:22] [part] Trevor_Fair has left the server (0:1)
